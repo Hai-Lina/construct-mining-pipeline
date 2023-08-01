@@ -1,5 +1,6 @@
 # A Computational Method to Reveal Psychological Constructs from Text Data
-Accompanying Material to Herderich, Freudenthaler, &amp; Garcia (2023): A Computational Method to Reveal Psychological Constructs from Text Data <br>
+Accompanying Material to Herderich, Freudenthaler, &amp; Garcia (2023): A Computational Method to Reveal Psychological Constructs from Text Data
+
 To the preprint: - insert preprint link -
 
 ## Abstract
