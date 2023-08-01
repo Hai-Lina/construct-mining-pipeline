@@ -1,0 +1,1896 @@
+
+ITEM 1
+die Verwandten besuchen wenn möglich
+Die Person besuchen.
+Die Ängste mit FreundInnen zu bereden.
+Im Krankenhaus besuchen
+
+ITEM 2
+Gut essen gehen
+Essen kochen
+Abgleich des Selbstanspruchs: Ich muss ja nicht der Beste sein
+Schokolade essen, Film gucken
+
+ITEM 3
+sich ins Krankenhaus begeben und Situation mit Arzt diskutieren
+Ich informiere mich über die Krankheit und suche nach Behandlungsmöglichkeiten, Spezialisten, etc.
+lustige Filme anschauen zur Ablenkung
+Heilungschancen recherchieren
+
+ITEM 4
+(nicht im Zwischenbericht erwähnt) > Verantwortlichen aufsuchen und versuchen, dass er due Situation klarstellt
+ich beschwere mich bei der zuständigen Instanz für die Verspätung d. Betr.mittels
+Die Aussage hinterfragen: die Person, die die Aussage an mich weitergeleitet hat, nach den Umständen fragen
+Ich suche mir neue Freunde.
+
+ITEM 5
+hart trainieren um besser zu werden
+trainieren und mich verbessern
+Ich wechsle die Universität
+versuchen in Zukunft besser zu sein
+
+ITEM 6
+versuchen Kompromiss bezueglich des Ortes zu finden
+ich erkenne, dass dies nichts mit meinem Verhalten zu tun hat
+Ich erklaere der Ansprechperson, wie die Situation aussah und bitte um Verstaendnis
+Ich arbeite daran der Angst, ein Gefuehl der Freude und Vorfreude ueber die Feier entgegenzusetzen.
+
+ITEM 7
+Ich schließe mich einer Lerngruppe an
+Ich beschwere mich bei meinem Vorgesetzten darüber.
+sich bei Freunden über den Klienten aufregen
+sich über den Klienten beschweren
+
+ITEM 8
+meine höhere Instanz (Chef) ist zufrieden, das ist alles was zaehlen sollte
+Ich weine mich aus, um danach klarer denken zu koennen.
+Musik hoeren, damit s lustig wird (Vorbereitung + Party)
+diese bei Fragen kontaktieren
+
+ITEM 9
+Ich erzähle anderen Freunde davon.
+Ich erzähle Freunden davon
+Mit einer Freundin darüber beratschlagen.
+Ich frage ihn, ob er sich gerne wieder einmal mit mir treffen würde.
+
+ITEM 10
+Ich beschäftige mich mit der Krankheit und deren Heilungschancen
+ich informiere mich über das Thema Flugangst
+Ich kontaktiere ihn und schlage ein Treffen vor.
+sich über Risiken informieren
+
+ITEM 11
+Vollziehe nach, dass dies auch dazu gehört und nicht alles immer pünktlich eingehalten werden kann.
+Ich überprüfe alle Vorbereitungen doppelt
+mir sagen dass mich keine Schuld trifft
+mir selbst einreden dass die Situation nicht so schlimm ist
+
+ITEM 12
+Rechtzeitig alles vorbereiten
+Ich überprüfe alle Vorbereitungen doppelt
+Ich nehme etwas Pflanzliches zur Beruhigung
+Ich plane im Detail, wie alles ablaufen soll und mache dabei sauber
+
+ITEM 13
+sich in die Arbeit vertiefen, ablenken
+sie besuchen gehen
+Ich schaue einen Film, er mich aufmuntert
+Mich mit Freunden ablenken.
+
+ITEM 14
+Ich frage eine Freunde, ob sie mit mir fliegen können
+Trotzdem fliegen und Angst haben
+Ich suche nach Mitteln, mir den Flug angenehmer zu gestalten
+Netflix & chill
+
+ITEM 15
+Ich wende mich an den Coach und frage um seine ehrliche Beurteilung.
+die Situation aufklären & mich rechtfertigen (beim Chef)
+Medikamente oder Alkohol
+Ich richte mich an die zuständige Person & korrigiere den Bericht
+
+ITEM 16
+Darauf fokussieren was man selbst über sich denkt
+sich selbst einreden, dass man gut spielt
+Ich erinnere mich an frühere Erfolge und mache mir damit Mut
+regelmässig anrufen - Kontakt suchen
+
+ITEM 17
+greife zu Medikamenten
+ich erinnere mich daran, dass ich mehr Erfahrungen habe, als die anderen, da ich älter bin
+Mir in Erinnerung rufen warum ich den Sport eigentlich mache/trotzdem mag.
+Mut zuzusprechen (ihnen und sich selbst)
+
+ITEM 18
+Ich bitte ihn, in Zukunft verlässlicher zu sein, 2. Chance
+Kollegen helfen Informationen schneller zu beschaffen
+Ich suche einen Tag aus, der für uns beide passend ist
+selbst nach der Information suchen
+
+ITEM 19
+Ich überwinde mich und fliege trotzdem
+Gründe aufzählen warum Fliegen sicher ist
+Ich stelle mir einen ruhigen und angenehmen Flug vor
+immer wieder alles ueberpruefen
+
+ITEM 20
+Ich spreche mit meinem Vorgesetzten über die Situation
+mit Vorgesetztem reden/um Hilfe bitten
+Ich erinnere mich daran, dass ich bereits einige Jahre Studienerfahrung habe
+den Sachverhalt aufklären im nächsten Zwischenbericht
+
+ITEM 21
+Fahre zum Krankenhaus
+sofort Besuch machen & Zeit mit demjenigen verbringen
+ins Krankenhaus fahren
+ignorieren & weitermachen
+
+ITEM 22
+andere Freunde fragen
+Ich versuche mich daran zu erinnern, wie ich damals war, als ich angefangen hatte zu studieren.
+Mit anderen der Vorfall reden
+Mit Freunden darüber reden
+
+ITEM 23
+Die wichtige Information selbst herausfinden
+Ich suche mit ihm gemeinsam die Info raus
+Ich versuche mich von der Situation abzulenken
+Ich bitte ihn, dass nächste Mal rechtzeitig fertig zu sein.
+
+ITEM 24
+Ich sehe mir einen aufheiternden Film an
+Abwechselnd bei mir/ihm treffen
+einen anderen Termin ausreden um sich regelmässig zu treffen
+Ich rufe den Kollegen an, um mich wieder mit ihm zu verabreden
+
+ITEM 25
+An die schöne Zeit zurückdenken
+sich an gute Zeit mit Verwandten erinnern
+Erinnerungen an diese Verwandten ins Gedächtnis rufen
+ich frage eine Person, der ich vertraue oder das Flugpersonal fuer Unterstuetzung
+
+ITEM 26
+herausfinden, wer den Bericht verfasste
+Kontaktiere die Verantwortlichen und erwähne meine Dringlichkeit & Wichtigkeit.
+Ich frage einen andere Kollegen, ob er mit mir ins Cafe geht
+Ich versuche mehr über die Aussage des Klienten zu erfahren > wie kommuniziert er mit seiner Körpersprache?
+
+ITEM 27
+darueber Reden
+Ich informiere meinen Vorgesetzten darüber
+Ich erkläre dem Chef den Zwischenfall
+Ich versuche meine(n) Vorgesetzte(n) darüber aufzuklären
+
+ITEM 28
+Mich bei einem guten Freund ausreden, quasi „beschweren“
+Ich sage das Treffen ab.
+Studium abbrechen
+Feier absagen
+
+ITEM 29
+den Tag gut durchplanen
+ich bereite alle vor auf das zusammentreffen
+Wohnung schön aufräumen und dekorieren
+Ich rufe meinen Verwandten im Krankenhaus an
+
+ITEM 30
+Bewusst machen wie egal das eigentlich ist
+ist anderen vor mir auch schon passiert
+Ich nehme es nicht persönlich, weil der Klient vielleicht einen schlechten Tag hatte
+Ab sofort gebe ich mir mehr Mühe beim Sport.
+
+ITEM 31
+ich mache eine Soll/Haben Liste
+Ich lehne den Job ab.
+Ich erstelle einen Plan für die Feier  um die Kontrolle zu behalten
+Ich bereite alles genauestens vor.
+
+ITEM 32
+Ich bringe der Person ein Geschenk
+Trauer alleine ausleben
+sich an die schönen Zeiten/Erinnerungen mit ihnen (zusammen) fokussieren
+An schöne Momente mit dem Verwandten denken
+
+ITEM 33
+ich lasse das Gefühl v. Traurigkeit komplett zu und weine so lange bis ich mich besser fühle
+Ich telefoniere regelmäßig mit ihm.
+sie wenn möglich (sofort) anrufen
+Ich rufe ihn immer an
+
+ITEM 34
+Ansprechpartner auf der Arbeit um Rat fragen
+Kollegen um Hilfe fragen
+Hobbies suchen
+Eine Ersatzperson finden
+
+ITEM 35
+Ich trainiere härter, um diesen Mitspieler vom Gegenteil zu überzeugen
+Alles geben um der Beste zu sein
+Ich versuche nächstes Mal besser zu spielen
+naechstes Mal walze ich den Klient auf jmd anderen ab
+
+ITEM 36
+sage dem Trainer Bescheid
+spreche nochmal mit dem Chef
+Trainiere härter
+Sich mit dem Kollegen aussprechen
+
+ITEM 37
+Ich suche mir neue Aktivitäten für diese Zeit.
+ich suche mir einen Alternativjob
+sich eine allternative Beschäftigung suchen
+an anderen Sachen zuerst weiterarbeiten
+
+ITEM 38
+Ich baue mich ein & versuche meine Kollegen etwas näher kennenzulernen
+anderen Kollegen befreunden
+Ich befreunde mich mit anderen Kollegen
+Ich hole mir nähere Informationen beim/der behandelnden Arzt*in ein
+
+ITEM 39
+versuchen den Zeitplan umzustellen, um die Aufgabe noch zu retten
+Es selber machen (Information sammeln)
+Versuchen das ganze mit Humor zu sehen
+Kollegen bitten sich beim nächsten Mal an den Zeitplan zu halten
+
+ITEM 40
+Ich telefoniere mit meinem Kollegen.
+Ich rufe ihn freitags an
+Ich beschwere mich bei Freunden darüber um Dampf abzulassen
+Ich rufe den Kollegen regelmässig an.
+
+ITEM 41
+Ich schliesse beim Start die Augen und höre laut Musik
+Ich versuche mich bis zum Flug abzulenken.
+Mit einem Freund/einer Freundin darüber reden
+laute Musik hören
+
+ITEM 42
+nicht daran denken
+es ignorieren, soll einfach nicht grade sein
+Ich vergesse ihn
+Ich lenke mich ab, denke an bessere Leistungen aus der Vergangenheit.
+
+ITEM 43
+was süsses Essen
+Ich esse Schokolade
+Eis essen
+Ich nehme Tabletten gegen die Angst
+
+ITEM 44
+Eine Studienberatung aufsuchen
+Ich suche einen Therapeuten auf
+sich klar machen, dass es ungefährlich ist
+ich suche einen Therapeuten auf
+
+ITEM 45
+an andere eigene positive Attribute denken
+ich mache mir klar, dass ich nicht der/die Beste im Studium sein muss
+Ich spreche mit Freunden darüber
+Ich sage mir, dass ich gut bin
+
+ITEM 46
+Den Vertrag nicht annehmen
+In andere Abteilung wechseln
+sich Mut zureden
+Ich sage die Feier ab.
+
+ITEM 47
+Beruhigen
+Meditieren/Entspannen
+Ich trainiere Beruhigungstechniken
+beschwere mich
+
+ITEM 48
+Versuchen meine Emotionen zu kontrollieren
+Ich versuche mich mit meinen Mitstudierenden anzufreunden.
+Klar machen, dass alle die selben Ängste haben
+mit Familie über Angst reden
+
+ITEM 49
+Vertrauensperson von meiner Angst erzählen
+Ängste anderen mitteilen
+So viel wie möglich vorbereiten
+Versuchen mich von der Irrationalität meiner Angst zu überzeugen
+
+ITEM 50
+Ich denke über meine vergangenen Leistungen nochmal genauer nach.
+Ich versuche meine Erwartungen an mich selbst herunterzuschrauben
+wechsle in die gleiche Abteilung
+Sich der eigenen Stärken/Fertigkeiten bewusst werden
+
+ITEM 51
+schreibe ihm einen Brief
+Kollegen anrufen und treffen ausmachen
+Den Verwandten besuchen um möglichst viel Zeit mit ihm/Familie zu verbringen
+Ich rufe sie an
+
+ITEM 52
+Ich vertraue in meine eigenen Fähigkeiten
+immer wieder sagen, dass man das schaffen wird
+mich mehr über (Berufs-?)Erfahrung definieren
+Ich frage sie, ob sie mir helfen können.
+
+ITEM 53
+Arbeitsplatz wechseln
+Suche mir anderen Sport.
+Ich verfolge den Verlauf d. Krankheit genau
+Ich sage die Feier ab
+
+ITEM 54
+sich informieren wie unwahrscheinlich Flugzeugabsturz ist
+Den Tag durchplanen.
+ich plane alles so gut es geht
+Ich putze meine Wohnung und stelle ein Programm für den Tag zusammen.
+
+ITEM 55
+Ich gehe nicht zu den Vorlesungen, sondern lerne von Zuhause
+wenn mit „ja“ zu beantworten ist fahre ich hin und rede und probier mich dadurch zu trösten - es wird schon wieder
+Mehr Lernen
+Ich lerne mehr
+
+ITEM 56
+Gefühle zulassen, weinen
+darüber nachdenken, ob es wirklich so ist
+Ich trauere
+Ich suche Freunde auf & weine mich bei ihnen aus
+
+ITEM 57
+Einen anderen Kollegen fragen, ob der helfen kann.
+Durchschnaufen
+Ich bitte Freunde um Hilfe
+jemanden bitten mir zu helfen
+
+ITEM 58
+wir teilen uns die Aufgabe (Telefonate)
+kontaktiere meinen Kollegen so oft es geht 
+Sich selbst Mut zusprechen
+In ständigem Kontakt bleiben
+
+ITEM 59
+Ich versuche den Grund fuer die verspaeteten Betriebsmitel zu finden und fuer die Zukunft zu beheben.
+Ich schildere ihm meine Situation und bitte ihn sich zu beeilen
+Ich kann ihm bei seiner Aufgabe helfen, die zur besagten Info fuehrt.
+Beweise sammeln und dadurch Erklaerung fuer die Verspaetung bringen
+
+ITEM 60
+spreche mit Freunden darueber
+Entspannungsübungen einüben
+Pause machen
+Augen schliessen
+
+ITEM 61
+Die Person anrufen und darüber reden
+Versuchen den Zeitplan anzupassen
+Die Nachricht in der Familie verteilen
+rede viel mit der Familie
+
+ITEM 62
+freunde mich mit neuen Leuten an
+klar machen, dass man mehr Erfahrung hat
+anfreunden
+treffe mich mit anderen Leuten
+
+ITEM 63
+Mit einer vertrauten Person dort hin fliegen
+täglich besuchen
+sich versichern, dass der Vertrag es wert ist hinzufliegen
+Informiere mich ausführlich über die Airline
+
+ITEM 64
+Es selber machen (Information sammeln)
+Ich besorge mir Medikamente.
+Ich hole mir Beruhigungsmittel von einem Arzt
+beruhigende Medikamente
+
+ITEM 65
+Ich hole mir nähere Informationen beim/der behandelnden Arzt*in ein
+mit Familienmitgliedern darüber reden
+Mit dem Krankenpersonal reden wie die Prognose ist
+Ich verfolge den Verlauf d. Krankheit genau
+
+ITEM 66
+sich die ganze Technik am Flughafen und bei den Flugzeugen ansehen
+Suche Alternativen zu Flug
+Ich suche nach alternativen Transportmöglichkeiten bis Flugangst besiegt ist
+Zugverbindung nach schauen
+
+ITEM 67
+Ich versuche alles rechtzeitig einzukaufen und zu erledigen
+mehr Zeit und Energie in die Vor- und Nachbereitung der VO investieren
+alles so gut wie es geht vorbereiten
+Ein Buch/Musik um waehrenddessen abgelenkt zu sein
+
+ITEM 68
+Ich nehme vor dem Flug Beruhigungstabletten
+Ich übersiedle an den Ort dauerhaft.
+Ich besuche die Person im Krankenhaus.
+Besuch
+
+ITEM 69
+ich trainiere härter um mich zu beweisen
+mehr/öfter trainieren
+Ich strenge mich noch mehr an
+Reisetabletten schlucken
+
+ITEM 70
+Ich rufe ihn an, um mir einen neuen Tag/Zeitpunkt für unser Treffen auszumachen.
+Anderen Termin für Cafe Treffen ausmachen
+ich treffe mich mit ihm einfach so persönlich
+Ich weine und lasse alles raus um mich danach besser zu fühlen
+
+ITEM 71
+Ich frage bei Freunden um Rat
+Ich hole mir Meinungen darüber bei Kollegen ein
+Ich versuche meine Erwartungen an mich selbst herunterzuschrauben
+ich hole mir Rat bei anderen Sportler*Innen
+
+ITEM 72
+Familie darüber reden
+Chef das Problem schildern
+Dem Chef die Situation schildern
+Ich gehe zum Betriebsrat (sofern vorhanden)
+
+ITEM 73
+ich schliesse engere Freundschaften mit anderen Kollegen
+versuchen mich zu entspannen
+Ich versuche mich durch Entspannungsübungen zu entspannen
+Ich meditiere und suche danach eine Lösung
+
+ITEM 74
+Ich arbeite an meiner Angst vorher 
+mit Familienmitgliedern über die Angst reden
+aus Frust viel essen
+ich rede positiv und beruhigend mit meiner Ängstlichkeit
+
+ITEM 75
+Alter spielt keine Rolle
+Ich freunde mich mit anderen an
+Ich führe mir meine Stärken in anderen Bereichen vor Augen
+Selbst belohnen
+
+ITEM 76
+Ich versuche mich in dem Sport zu verbessern
+Sie schlagen
+nicht mehr zum Training erscheinen
+Im Internet nach Therapiemöglichkeiten für den Verwandten suchen
+
+ITEM 77
+Wissen, dass immer noch eine Chance zum „Besserwerden“ besteht
+sich erinnern, dass man selbst nichts dafür kann
+Mit den neuen Studenten Kontakt aufnehmen und vergleichen wie gravierend die Unterschiede wirklich sind
+Mir sagen, dass das nicht so schlimm wird
+
+ITEM 78
+es einen egal lassen werden
+Ich rede mit einer/m Kollegin/Kollege darueber.
+ich arbeite umso haerter, um auch auf ihrem Level zu sein
+Ich stuerze mich in ander Arbeit und sorge somit fuer Ablenkung.
+
+ITEM 79
+Ich gehe meinen Hobbys nach und lenke mich ab
+Verstehen, dass ich nicht jedem/jeder gefallen kann.
+Ich sage meinem Chef dass es nicht meine Schuld ist
+Mir sagen, dass es nicht an mir liegt
+
+ITEM 80
+nachdenken über Vorteile meiner Erfahrung
+alles vorbereiten
+mir meine eigenen Fähigkeiten klar machen
+Wissen/Können raushängen lasen
+
+ITEM 81
+mit einem anderen Kollegen in das Cafe gehen
+Ich gehe alleine Freitags in das Cafe.
+Ich gehe mit jemand anders am Freitag ins Cafe.
+im Krankenhaus anrufen und nach Besuchszeiten und Zustand fragen
+
+ITEM 82
+Ich versuche die ganze Sache zu ignorieren
+ignoriere es so gut es geht
+Kaffee trinken
+Ich versuche sie zu vermeiden/ignorieren
+
+ITEM 83
+Person anrufen
+Familie informieren über Nervosität/Angst
+Ich rufe sofort meine beste Freundin an.
+Jemanden anrufen
+
+ITEM 84
+evtl. Länger reisen, dafür mit Zug, Schiff, etc.
+Finde andere Möglichkeit den Ort zu erreichen.
+Nach anderen Transportmitteln schauen
+Ich kann ihm bei seiner Aufgabe helfen, die zur besagten Info fuehrt.
+
+ITEM 85
+Mit Ärzten über Behandlungsalternativen reden
+Ich informiere mich über die Krankheit und die Therapiemöglichkeiten
+Sich über die Krankheit und dem ausloser bzw lebensstil der Verwandten informieren.
+darueber Reden
+
+ITEM 86
+Tief durchatmen, Augen schließen
+ich trainiere 3x so hart
+Sagen das er sich mehr anstrengen soll
+Ich trainiere härter um besser zu werden.
+
+ITEM 87
+Erinnerungen an diese Verwandten ins Gedächtnis rufen
+Eis essen/Essen
+Ich bringe Essen vorbei
+Kaffee trinken gehen
+
+ITEM 88
+Freundschaften in Uni knüpfen
+ich besuche meinen Verwandten im Krankenhaus
+ins Krankenhaus Verwandten besuchen
+Ich fahre ins Krankenhaus
+
+ITEM 89
+sich in Freizeit etw. Spassiges goennen
+In der Zeit andere nützliche Dinge tun um keine Zeit zu verlieren
+Mich bei einer Freundin/Familienmitglied beschweren
+derweil was anderes machen
+
+ITEM 90
+andere Sportart suchen
+Studium abbrechen
+betrinke mich
+ebenfalls die Abteilung wechseln 
+
+ITEM 91
+ich reise alternativ an, nehme den Zeitverlust in Kauf
+Lerngruppen beitreten
+Nachhilfe suchen
+Notendurchschnitte anschauen
+
+ITEM 92
+ich koche und bereite alles vor
+Ich bereite mich gut auf den Tag vor
+Besuch im Krankenhaus
+Ich plane den Tag komplett durch
+
+ITEM 93
+ich lenke mich ab, Sport o.ä.
+Ich lasse mich bei einer psycholog. Beratungsstelle beraten
+Ich lenke mich ab > andere Gedanken
+Ablenken, was Lustiges machen
+
+ITEM 94
+Ich strenge mich mehr an.
+ich schlage einen alternativen Termin vor (privates Treffen)
+das Zusammenkommen absagen
+Ich schlage andere Zeiten und Orte für ein Treffen vor.
+
+ITEM 95
+ich versuche wegen einer „unwichtigen“ Sache keine Angst zu haben > es wird alles gut laufen
+ich entspanne mich und sage mir, dass nicht immer alles klappen kann
+Ich beruhige mich u. sage, dass alles gut wird.
+ich wechsle das Team
+
+ITEM 96
+Freunde um Hilfe bitten
+Ich denke daran, dass alles gut werden wird
+Nahe Freunde zur Unterstützung holen
+Helfen wo ich kann
+
+ITEM 97
+andere Freunde fragen
+an einem anderen Tag ins Cafe
+Freitags einfach in anderem Cafe treffen
+Ich gehe mit einem anderen Kollegen Freitags auf einen Kaffee.
+
+ITEM 98
+Zum Therapeuten gehen
+es als Möglichkeit zur Therapie betrachten
+Klient nicht mehr behandeln
+die Verwandten besuchen wenn möglich
+
+ITEM 99
+persönlichen Fortschritt und Entwicklung wertschätzen
+Mehr informieren, weiterbilden
+Ich probiere das erste Semester einfach mal aus und gebe mein Bestes, dann schaue ich ob ich das alles Schaffen kann
+ich nutze meine Lebenserfahrung als Ausgleich
+
+ITEM 100
+Sich über Krankheit informieren
+und frage ihn, ob er nicht daran interessiert wäre, dass mir für uns eine andere Zeit finden können.
+Ich bitte ihn um ein Treffen
+Ihn fragen, ob er wann anders Zeit hat
+
+ITEM 101
+Ich mache Fortbildungen
+Versuchen, sich zu verbessern
+ich investiere mehr Zeit als die anderen ins Studium
+Ich vermeide Seminare & Vorlesungen und erarbeite das meiste Zuhause
+
+ITEM 102
+Keinen Plan machen
+Ich tue d. bestmögliche damit es problemlos verläuft
+Mich über die Krankheit informieren.
+plane den ungefähren Ablauf
+
+ITEM 103
+Sorgfältig planen
+Ich rede mich bei einer befreundeten Person auf.
+mich darüber bei Freunden beschweren
+beschwere mich beim Chef
+
+ITEM 104
+Beruhigen
+Atemübungen
+auf einen anderen Tag legen
+Entspannungstechnik/Meditation
+
+ITEM 105
+Ich mache eine Therapie gegen Flugangst.
+Therapie machen
+Therapiebuch kaufen
+Auseinandersetzung mit den Hintergründen/Fakten der Erkrankung
+
+ITEM 106
+Ich plane alles im voraus.
+Einen Zeitplan für den Tag machen
+Ich plane alles gut durch
+Ich schließe mich einer Lerngruppe an
+
+ITEM 107
+Ich versuche mir vorzunehmen, mich in Zukunft weiter zu bessern
+Anstrengen
+Tag planen
+Ich strenge mich mehr an.
+
+ITEM 108
+jemand anderen um Rat fragen
+Ich über Druck auf ihn aus
+in ein Kissen boxen
+Ärger rauslassen
+
+ITEM 109
+Ich mache das Beste aus der Situation un bemühe mich, noch alles zu schaffen
+ich versichere mir selbst, das auch packen zu können
+Sich bewusst sein, dass man andere Fähigkeiten hat
+Ich fahre ins KH
+
+ITEM 110
+Ich denke mir, dass sie vermutlich einfach neidisch auf mein Talent sind.
+Ich versuche meinen Zeitplan zu optimieren
+Zeitplan überarbeiten/anpassen
+Den Zeitplan überarbeiten.
+
+ITEM 111
+Ich nehme etwas Pflanzliches zur Beruhigung
+Ich rede mir ein, dass es so schlimm schon nicht wird
+Beruhigungstropfen nehmen
+Tabletten gegen Flugangst besorgen
+
+ITEM 112
+Mich mit etwas anderem ablenken
+versuche mich abzulenken
+Ich lenke mich mit Sport ab
+Ich erkläre dem Chef den Zwischenfall
+
+ITEM 113
+Ich fahre ins Krankenhaus, um meinen Verwandte beizustehen
+ich akzeptiere die Trauer
+Ich lass Raum für meine Gefühle
+Ich lasse meine Trauer zu
+
+ITEM 114
+Ich verlasse das team
+Ich lehne den Job ab.
+Jobangebot absagen
+sich bei Familie/Partner beschweren
+
+ITEM 115
+mit Familie zusammen sitzen
+ich verbringe viel Zeit mit meinen Verwandten
+Leistung verbessern
+Ich fahre zu ihm
+
+ITEM 116
+jeden fuer etwas einteilen > muss es nicht alleine schaffen
+Mit einem Freund/einer Freundin darüber reden
+Situationsanalyse um in Zukunft bessert reagieren zu koennen  
+haerter trainieren/***
+
+ITEM 117
+Ich koennte mich ueber Methoden informieren, die mich vor und waehrend des Fluges beruhigen.
+Ich fuehre die Tradition mit einem anderen Kollegen weiter
+Ich meditiere und versuche so Ruhe zu bewahren
+Ich rede mit anderen Klienten ueber meine Leistung
+
+ITEM 118
+bei extremer Flugangst Tabletten von einem Arzt verschreiben lassen
+Ich nehme Beruhigungstabletten
+beruhigende Mittel/Drogen mitnehmen
+Eine Aussprache mit dem Kollegen
+
+ITEM 119
+wir machen uns einen anderen Tag aus
+eigene Gesundheit wertschaetzen
+Alten Kollegen darauf ansprechen und neuen Termin/Beschäftigung ausmachen
+Ich mache stattdessen mit einem anderen Freund etwas
+
+ITEM 120
+Ich ignoriere das Ganze und lenke mich ab
+sich versuchen abzulenken
+alles gut planen sodass keine Probleme aufkommen
+mit Freunden ablenken, um Sache zu vergessen
+
+ITEM 121
+Versuchen besser zu werden
+Ich stecke alles an Zeit ins Lernen.
+Ich lern härter als alle anderen
+in alle Lehrveranstaltungen gehen
+
+ITEM 122
+Ich sage meiner Familie ab.
+Lerngruppen beitreten
+ihn in seiner neuen Stellen besuchen gehen
+ihn besuchen gehen
+
+ITEM 123
+Ich gehe in Therapie und erkunde die Gründe für meine Angst
+Etwas tun um den Ärger hinauszulassen
+mit Therapeuten über Problem sprechen
+Angsttherapie
+
+ITEM 124
+In hoeherem Alter hat man mehr Ahnung von der Praxis
+Mit Familie/Freunde darueber sprechen
+Ich bin in regem Kontakt mit meiner Familie bzgl der Feier und uebergebe einige Aufgaben.
+Tipps von den anderen holen
+
+ITEM 125
+Pilotenschein machen
+mit einem anderen Kollegin/Kollege am Freitag in das Cafe gehen
+ich gehe alleine in das Cafe
+Ich frage einen andere Kollegen, ob er mit mir ins Cafe geht
+
+ITEM 126
+Ich mache klar, dass der Verzug nicht an mir liegt.
+Lasse alle wissen, d. Fehler nicht bei mir liegt
+Trauer rauslassen
+Ich beobachte sie und schau ob sie wirklich gut sind oder nur so tun
+
+ITEM 127
+ich rede mit Ärzten, dass ich Gewissheit über die Situation habe
+Ich versuche eine andere Möglichkeit zu finden, ihn zumindest regelmässig zu sehen/hören.
+Sich über die Krankheit informieren
+nach Informationen über die Krankheit recherchieren
+
+ITEM 128
+Verärgert nach Hause gehen und mich abreagieren
+Wut und Ärger in Musik projezieren
+Ich versuche die Situation zu ignorieren
+Ich lasse meine Wut aus  
+
+ITEM 129
+Ich plane alles genau
+Früh genug mit Vorbereitungsarbeiten beginnen
+eine sorgfältige To-Do-Liste anlegen
+in meine Fähigkeiten vertrauen & es vergessen
+
+ITEM 130
+Ich lerne/übe mehr als davor
+Ich lerne zusammen mit ihnen
+nach einem Fernbus-Zug-Mitfahrgelegenheit suchen
+in Lerngruppe gehen
+
+ITEM 131
+Ich höre auf mitzuspielen
+Kündigen
+Ich suche mir einen neuen Cafe-Partner
+Ich denke nicht daran und versuche mich abzulenken
+
+ITEM 132
+Gespräch mit Freunden/Familie/Fremden
+mit restlicher Familie darüber sprechen
+Partner/beste Freundin/Familie davon erzählen
+ich führe Telefonate mit ihnen
+
+ITEM 133
+2 Tage vor Flug nicht schlafen um während dem Flug durchzuschlafen
+Ich nehme es nicht persönlich, weil der Klient vielleicht einen schlechten Tag hatte
+Ich fliege nicht.
+ich bereite mich auf den Flug vor
+
+ITEM 134
+Mit jemandem über die Flugangst reden
+mit Freunden etc drüber reden und Meinungen einholen
+Ich versuche selbst an die Information zu kommen
+Mit jemanden anderen darüber reden/auslassen
+
+ITEM 135
+Ich beschwere mich.
+Ich frage bei Freunden um Rat
+bei Kollegen über zuständigen + seine Inkompetenz aufregen
+beim Vorgesetzten beschweren über Kollegen
+
+ITEM 136
+Ich lenke mit ab
+Ich höre auf zu studieren
+Job kündigen um nicht mehr zum Unternehmen zu gehören
+ich wechsle das Team
+
+ITEM 137
+ch suche mir neue Gesprächspartner, bleibe aber trotzdem ab und zu telefonisch im Kontakt mit meinem Kollegen.
+mit dem Kollegen wann anders was machen
+ich frage ihn, ob er den Kontakt aufrecht erhalten will
+Andere Möglichkeit Arbeitsort?
+
+ITEM 138
+Ich gehe zu einem Therapeuten
+Ich breche die Uni ab
+ich lehne den Job ab
+Neuen Job suchen
+
+ITEM 139
+Ich rufe im Krankenhaus an
+versuche Kontakt aufrecht zu halten
+Fragen ob er sich trotzdem treffen moechte
+Anrufen neuer Termin
+
+ITEM 140
+Team wechseln
+Ich bitte ihn um ein Treffen
+in die Abteilung wechseln
+Vertrag nicht annehmen
+
+ITEM 141
+Ich ziehe mich zurück und denke über meine Traurigkeit nach
+Ich bin traurig
+den Tränen freien lauf lassen
+Ich bringe der Person ein Geschenk
+
+ITEM 142
+Wenn Ichs durch dritte erfahre, ruf ich persoenlich zum Reden nochmal an.
+„Zurueckschiessen“, wenn da …
+Mir versichern, dass es jedem passieren koennte
+ich sage mir, dass es ganz normal ist traurig zu sein, aber es mir bald egal sein wird
+
+ITEM 143
+Alles vor dem Besuch erledigen
+Mehr lernen/arbeiten
+Lerngruppen beitreten
+Ich konzentriere mich mehr auf das Studium und lerne fleissig mit
+
+ITEM 144
+Mit anderen betroffenen Verwandten darüber reden
+Freunden/Familie anvertrauen
+KollegInnen um Hilfe/Rat bitten
+bei Freunden/Vertrauten beschweren
+
+ITEM 145
+Ich erkläre meinem Chef die Sache
+Ablenkung mit anderer Arbeit
+die Sache versuchen klarzustellen
+Ich bespreche mich mit meinem Chef, damit er/sie die Situation versteht
+
+ITEM 146
+1x drueber schlafen
+Ich kann die Situation meinem Chef erklaeren.
+Ich hoere nicht auf sie
+Ich besorg mir die Informationen selbst
+
+ITEM 147
+Ich schlage alle.
+sich selber zureden dass alles wieder gut wird
+Ich sage mir, dass es nicht so schlimm ist, wenn was schief läuft. Die Familie versteht sowas & erwartet keine Perfektion
+Hinterfragen warum gerade ich nicht Zugang zu dem Mittel bekommen habe
+
+ITEM 148
+Ablenken mit Freunden
+Netflix & chill
+Linderung durch Ablenkung (Sport, Unterhaltung)
+Entspannungstechniken üben/raussuchen
+
+ITEM 149
+Ich bitte meine Mutter um Rat, da sie das oefters macht. (einladen)
+Ich rede mit Freunden ueber meine Aengste
+Ihm von deinen Gefuehlen erzaehlen
+Ablehnen und nicht fliegen
+
+ITEM 150
+Ich versuche mich mit Aktivitäten abzulenken.
+Ich hoffe einfach dass er es überlebt
+Ich lenke mich mit Freizeitbeschäftigung ab (z.B. Serien schauen, Lesen)
+mit Arbeit ablenken
+
+ITEM 151
+KollegInnen um Hilfe/Rat bitten
+Freunde um Hilfe bitten
+andere um Rat fragen
+Ablenkung durch andere Aktivitäten
+
+ITEM 152
+mit anderen Verwandten treffen und reden
+mit Freunden/Familie darüber reden
+Die Arbeit ablehnen.
+Darüber mit Freunden, Familie reden
+
+ITEM 153
+Ich versuche mich zu entspannen und abzuschalten.
+sich den Ärger Luft machen
+ich mache Entspannungsübungen
+einfach mal Pause von der Arbeit nehmen
+
+ITEM 154
+ich lese Tipps für mehr Selbstbewusstsein
+an bisherige Praxiserfahrung denken, die den anderen Studenten fehlt
+Ich rede mit einem anderen Freund darüber.
+Ich denke sie sind besser als ich
+
+ITEM 155
+Hilfe holen (Geschwister, Eltern …)
+mit Leuten darueber Reden, auch mit Betroffenen
+Freund um Rat fragen
+Ich biete meine Hilfe an.
+
+ITEM 156
+mit Freunden u. Familie reden
+mit Freunden/Bekannten austauschen
+Sich eingestehen, dass dies der Lauf der Dinge ist
+ich spreche mit der vertrauten Person
+
+ITEM 157
+Situation vor dem Chef klarstellen
+Ich plane alles ganz genau.
+selber vorarbeiten
+Ich achte darauf, dass das Meiste schon am Vortag erledigt ist.
+
+ITEM 158
+Ich fliege probehalber einen kürzeren Flug um mich darauf einzustellen
+les im Internet nach Hilfe
+Ich frage einen Freund, ob er mir behilflich ist.
+Anderen Kollegen um Hilfe bitten
+
+ITEM 159
+Gespraech mit Partner o. Freunden suchen
+Ich versuche den Grund dafuer zu finden.
+Mit Freunden darueber reden
+Ich frage, ob es Alternativen zum Flug gibt
+
+ITEM 160
+es passieren häufiger Autounfälle als Flugzeugabstürze
+Ich beobachte die Reaktionen der Flugbegleiter.
+schaue mir die Statistik der Airline an
+Zum Therapeuten gehen
+
+ITEM 161
+Ich rede mit einem Freund darüber.
+Ich rede mit meinen Freunden, … darüber
+Erzähle es anderen Freunden
+Ablenken (z.B. durch Musik)
+
+ITEM 162
+ich suche mir Begleitung für den Flug
+fliege nicht
+fliegen, obwohl ich Angst habe
+Realistische Ansprüche an sich selber machen
+
+ITEM 163
+Ich besuche alle Vorlesungen und lerne mit
+Mir eine Lerngruppe suchen.
+Mut machen bis zum Flug & „einfach einsteigen“
+Ich lerne mit ihnen zusammen
+
+ITEM 164
+Versuche zu schlafen während Flug
+Mut machen bis zum Flug & „einfach einsteigen“
+ich informiere mich über das Fliegen
+ich ignoriere meine Angst
+
+ITEM 165
+Ich rufe die Person sofort an.
+Persönl. Kontakt suchen, Kollegen anrufen
+plane Reise
+Kollegen anrufen
+
+ITEM 166
+ich bin mir nicht sicher, ob der Chef mich „anlügt“
+‚Das ist meine Familie, sie werden mir Fehler verzeihen.‘
+Ich versuche meinen Zeitplan anders zu gestalten
+Situation analysieren > kann mir auch passieren
+
+ITEM 167
+Treffe mich mit anderen Freunden.
+versuche es zu vergessen
+versuchen ihn zu vergessen
+Ich ignoriere die Meldungen
+
+ITEM 168
+kleine Strecke fliegen versuchen
+Ich versuche mich durch Entspannungsübungen vorzubereiten auf den Flug
+Ich bitte eine Freundin/einen Freund mit mir zu fliegen.
+Ablenken, was Lustiges machen
+
+ITEM 169
+Ich lehne den Auftrag ab
+bestell mir was zu Essen
+Studium wechseln
+Studium wechseln
+
+ITEM 170
+Ich bitte einige Familienmitglieder, mir dabei zu helfen
+um Rat bei meinen Eltern fragen
+Ich hole mir bei Freunden & Familie Rat ein
+Mich beruhigen (bewusst atmen, Musik)
+
+ITEM 171
+Therapie gegen Flugangst
+Selbst die Leistungen reflektieren
+Ich gehe zum Therapeuten um es zu verarbeiten
+Ich gehe zu einem Therapeuten um über alles zu sprechen
+
+ITEM 172
+Versuchen die Information selbst bereitzustellen
+plane alles bis ins kleinste Detail
+ich recherchiere mir selbst die richtige Information
+Ich beschaffe mir die Information selbst
+
+ITEM 173
+Ich frage den Kollegen wann wir uns jetzt treffen.
+Ich sehe, dass es schlimmer kommen hätte können
+Schauen, dass es mir in allen anderen Lebensbereichen gut geht
+der Situation die Schuld geben, nicht sich selbst
+
+ITEM 174
+Ich breche den Kontakt zu ihm ab
+beim Sport auspowern
+ich trainiere, um besser zu werden
+Ich arbeite härter als alle und zeige es ihnen
+
+ITEM 175
+Freitags einfach in anderem Cafe treffen
+Schalte schöne Musik ein
+Mit Freunden darüber sprechen und ablenken
+Ich lenke mich ab, mache Freizeit/Sport
+
+ITEM 176
+Sich selbst bewusst machen wie man als junger Student war
+ich besinne mich auf die gute Arbeit, die ich geleistet habe
+Ich konzentriere mich auf meine bisherigen Erfolge, die mein Talent beweisen.
+Ich rege mich auf und lasse meine Wut an andere aus.
+
+ITEM 177
+sich bei Familie/Partner beschweren
+Sich selbst Mut zusprechen
+Schätzen, dass man schon mehr Erfahrung hat & deswegen geeignet ist
+Ich glaube an mein Können und fühle mich durch die Rückmeldung vom Chef bestärkt
+
+ITEM 178
+Stattdessen immer mit anderen Freunden treffen.
+Ich umgebe mich mit Freunden, die verlässlich sind.
+ich schließe Freundschaften mit meinen Studienkollegen
+Alleine sein und einfach weinen
+
+ITEM 179
+Ich wechsle die Mannschaft
+Kranken beistand leisten
+Sich einschlägig mit der Krankheit befassen
+Im Internet nach Therapiemöglichkeiten für den Verwandten suchen
+
+ITEM 180
+beim nächsten Mal mehr anstrengen
+Ich hole alles auf
+Mein bestes geben
+öfter nach Informationen möglichst selbst beschaffen
+
+ITEM 181
+Ich rede mit Freunden darüber
+Ich versuche über diese Freunde das Gerücht zu prüfen
+Ich spreche mit Freunden darüber
+Ich wechsle den Sport
+
+ITEM 182
+Einsehen, dass sie Recht haben, aber es ja auch um Spass geht
+mir klar machen, dass ich nichts besser machen konnte
+Sich proffesionelle Hilfe suchen
+Ich sage ihm, dass es nicht schlimm sei, ich mich aber freue mich, wenn unsere Absprache das nächste Mal besser klappt
+
+ITEM 183
+ich besuche sie
+Ich besuche ihn/sie
+Ich gehe alleine ins Cafe
+Ich besuche ihn.
+
+ITEM 184
+Für sich selbst das Beste geben
+Ich lasse meine Wut an den Mitspielern aus
+Ich teile dem Chef meinen Unmut mit.
+Ich mache meinem Ärger Luft beim Sport.
+
+ITEM 185
+Ich nehme Medikamente, die mich beruhigen.
+Beruhigungstabletten vor dem Flug nehmen.
+ich nehme Beruhigungstabletten
+mit alten Kollegen telefonieren
+
+ITEM 186
+Ich veranlasse, dass der Bericht korrigiert wird.
+darueber Reden
+koerperliches Training
+Ich rede mit Freunden zum Verarbeiten drueber
+
+ITEM 187
+einen anderen Termin ausmachen
+Ich informiere mich über die Chancen der Krankheit
+Erfahren wollen welche Krankheit es ist
+genaueres über Zustand der Person erfahren
+
+ITEM 188
+mit der Person telefonieren
+ich telefoniere mit ihm
+Ich frage ihn nach einem neuen Termin zu dem wir uns regelmässig treffen könnten.
+ich rufe den Freund immer freitags an
+
+ITEM 189
+Ich vertraue in meine eigenen Fähigkeiten
+Jemand anderen den Tag planen lassen u. Verantwortung abgeben
+Gute Vorbereitung
+Ich treffe die perfekten Vorbereitungen
+
+ITEM 190
+ich versuche, wenige Gedanken darüber zu vergeuden
+Ignorieren und weitermachen
+Mit Familie oder Freunden reden, mit der Verwandten reden
+Ich ignoriere das Gerede
+
+ITEM 191
+mich noch mehr bemühen
+Härter trainieren fürs Sportteam
+Ich trainiere extra um besser zu werden.
+Mit anderen Verwandten reden
+
+ITEM 192
+Nach Gruenden fuer die Meinung fragen
+sage ihm wie ich mich fuehle
+vorher regelmässig zum Flughafen fahren > Konfrontation
+Die bloede Tante nicht einladen 
+
+ITEM 193
+Besuch im Krankenhaus
+Ich habe mehr Erfahrung, v.a. wichtig
+Ich sehe mir meine letzten Erfolge an.
+an andere eigene positive Attribute denken
+
+ITEM 194
+Ablenkung mit anderer Arbeit
+Lasse alle wissen, d. Fehler nicht bei mir liegt
+Ich lenke mich ab, solange ich nicht helfen kann
+Ich höre traurige Musik.
+
+ITEM 195
+Bewusst machen, dass man mehr Erfahrung hat
+Die bloede Tante nicht einladen 
+ich bin um nichts weniger wert, nur weil andere Studenten etwas besser können
+Ich erinnere mich an meine Berufserfahrung
+
+ITEM 196
+sich einen Plan machen
+Ich frage den Kollegen ob er am Wochenende sich treffen will
+alles gut planen sodass keine Probleme aufkommen
+Früh genug mit Vorbereitungen anfangen
+
+ITEM 197
+Ich führe mir vor Augen, dass alles gut werden wird.
+Nicht alles funktioniert immer im Zeitplan > versuche aufzuholen
+Ich probiere das erste Semester einfach mal aus und gebe mein Bestes, dann schaue ich ob ich das alles Schaffen kann
+Ich akzeptiere dass man gegen nichts machen kann und geniesse die verbliebene Zeit
+
+ITEM 198
+Ich nehme Medikamente.
+Medikamente oder Alkohol
+Ich nehme beruhigende Medikamente.
+nahezu jede Vorlesung besuchen & mitschreiben
+
+ITEM 199
+ich lasse den Kollegen wissen wie veraergert ich bin
+Nach Hilfe fragen
+Chef um Beistand bitten
+Ich bitte andere Kollegen um Hilfe
+
+ITEM 200
+Ablenken (Sport, etc)
+mehr lernen als die anderen
+sich ablenken (etwas Lustiges machen)
+Ich höre einen Podcast.
+
+ITEM 201
+Ich sehe dies als Ansporn, mich in das Studium reinzuhängen.
+Ich denke nach ueber die Ursachen, dass
+sich bisherige Erfolge vor Augen halten
+Fokus auf eigene Arbeit
+
+ITEM 202
+ Mit Familie/Freunden darüber sprechen
+Ich spreche mit Freunden und Familie über meine Unsicherheiten.
+Angst haben ist okay
+ich spreche über meine Angst
+
+ITEM 203
+Meinen Zeitplan ändern
+Meinen Zeitplan bearbeiten
+meinen Zeitplan anpassen
+mit Freunden darüber reden
+
+ITEM 204
+Ich frage mich, ob es wirklich schlimm ist, wenn der Tag nicht problemlos verläuft
+denke: es kann nicht immer alles klappen
+Ich schreibe zuvor eine Nachricht an sie, die meine Bedenken erklaert.
+„was solls“ „wird schon“
+
+ITEM 205
+Ich schweige darüber.
+Ich vergesse ihn.
+ich versuche ihn zu vergessen
+alles gut durchplanen
+
+ITEM 206
+ihn vergessen
+mit restlicher Familie darüber sprechen
+Es ignorieren
+ignorieren & weitermachen
+
+ITEM 207
+Angstbewältigungstrainin
+Ich gehe zu einem Therapeuten
+ich suche einen Persönlichkeitstrainer/Coach auf und lasse mir helfen
+Mehr lernen
+
+ITEM 208
+Sich klar machen das die Angst unbegründet ist
+Sich fragen vor was genau man Angst hat
+mit jemanden darüber sprechen & verstehen, was der Angst zu Grunde liegt
+Ich sage mir, dass es nicht so schlimm ist, wenn was schief läuft. Die Familie versteht sowas & erwartet keine Perfektion
+
+ITEM 209
+Ich versuche nehme den Vertrag an und gehe für die Flugangst in Therapie.
+Ich baue mich ein & versuche meine Kollegen etwas näher kennenzulernen
+ich beginne eine Psychotherapie um Flugangst zu bekämpfen
+Ich nehme psychologische Hilfe in Anspruch
+
+ITEM 210
+Ich versuche mir darüber im klaren zu sein, dass es immer Menschen gibt, die etwas auszusetzen haben.
+Ich breche das Studium wieder ab
+überlegen, ob ich oder der Kunde schuld ist
+Ich führe mir vor Augen, dass es auch ok ist, wenn der Tag nicht perfekt und reibungslos abläuft. Gerade bei Familientreffen kann es schnell zu Streitigkeiten kommen.
+
+ITEM 211
+mit anderen Kollegen anfreunden und reden
+An die schöne Zeit mit dem Verwandten denken
+Mit Freunde/Familie reden, ob jemand Flugangst hat/hatte und Strategien überlegen
+Ich erinnere mich an gemeinsam Erinnerungen.
+
+ITEM 212
+mich beschweren
+Ich trinke verbittert und alleine meinen Cafe
+Ich beschwere mich bei Freunden darüber um Dampf abzulassen
+Chefin anrufen & sich über Kollegen beschweren
+
+ITEM 213
+Ich suche ein Cafe in seiner Nähe und komme zur ihm
+Ich bereite mich sehr gut vor
+alles vorbereiten
+ausreichende Planung
+
+ITEM 214
+Musik/Videospiele
+Ich sehe mir einen aufheiternden Film an
+telefonieren
+Ich unternehme was mit Freunden zur Ablenkung
+
+ITEM 215
+Ich überzeuge mich selbst von meinen Fähigkeiten
+den Job aufgeben bzw. nicht annehmen
+auf eigene Fähigkeiten vertrauen
+ihnen in Zukunft zeigen, wie gut man wirklich ist
+
+ITEM 216
+häufiger zusammen trainieren
+Versuche mein bestes zu geben
+entspannen
+Ich trainiere dreimal so hart und werde der Beste
+
+ITEM 217
+Wut und Ärger in Musik projezieren
+Ich besuche die Verwandte
+Verwandte im Krankenhaus besuchen & Zeit verbringen
+Ins Krankenhaus fahren
+
+ITEM 218
+Das Angebot annehmen
+Augen schliessen
+Ich nehme den Job nicht an
+Die Sportart wechseln
+
+ITEM 219
+versuchen Kontakt zu halten
+Noch mehr an meiner Leistung arbeiten
+Trainiere härter
+Versuchen besser zu werden
+
+ITEM 220
+mehr lernen als die anderen
+ich besuche die Verwandten so oft wie möglich
+Verwandte besuchen
+Ihn in der Abteilung besuchen
+
+ITEM 221
+den Job aufgeben bzw. nicht annehmen
+Mit Trainer/in reden
+Ich suche einen ähnlichen Job in einer näheren Umgebung
+Ich suche mir einen anderen Kollegen meiner Abteilung
+
+ITEM 222
+Ich suche andere Verkehrsmöglichkeiten.
+Anderes Transportmittel wählen z.B. Zug, Schiff
+Ich erkundige mich über andere Transportmittel
+Ich übe Entspannungsübungen
+
+ITEM 223
+Lernen > ablenken
+mich vergewissern das alles passt
+Ich gehe aus der Situation raus und lenke mich ab.
+sich nach dem Lernen Auszeit gönnen & sich ablenken
+
+ITEM 224
+Ich mache meinem Aerger ihm gegenueber Luft.
+Ich rufe einen engen Freund an.
+Schoene Erinnerungen m. d. Person(en) hervorrufen
+ich lasse den Kollegen wissen wie veraergert ich bin
+
+ITEM 225
+Vertraute Person fragen mitzufliegen
+sich an gut gelungene Projekte erinnern
+Situation rational betrachten - Infos über Flüge/Sicherheit einholen
+Freunde mit auf den Flug nehmen
+
+ITEM 226
+Mich von meiner Familie beraten lassen.
+Etwas anderes tun, was mich voranbringt
+Ich kann eine andere Arbeit stattdessen erledigen.
+erledige andere Dinge von meinem Zeitplan
+
+ITEM 227
+Ich rede mit ihm darüber
+Plan für Arbeitsmittel erstellen - wann bekommt es wer
+Ich rede mit einer Freundin darüber
+Ich rede mit Kollegen/Freunden darüber
+
+ITEM 228
+Angebot ablehnen
+mit Leuten darueber Reden, auch mit Betroffenen
+ich überlege meinen Job zu kündigen
+Studienfach wechseln/Studium abbrechen
+
+ITEM 229
+Ich freunde mich mit KollegInnen an u. integriere mich.
+Ich rede mit ihm darüber
+Sich mit anderen anfreunden
+mich mit Freunden treffen
+
+ITEM 230
+Ich erinnere mich daran, dass alles gut gehen wird und rede mir gut zu
+Ich sage mir, dass man es nicht jedem Menschen recht machen kann
+„Es ist nicht so schlimm wie es aussieht“
+Beruhigungstropfen nehmen
+
+ITEM 231
+Mich beruhigen (bewusst atmen, Musik)
+Ich trinke verbittert und alleine meinen Cafe
+Entspannen (z.b. Bad, etc)
+Tief durchatmen, Augen schließen
+
+ITEM 232
+Ich mache mir bewusst, dass mein Können nicht von meinem Alter abhängt
+Zuspruch von dritten bekommen, wie gut man ist
+eigene Leistung anerkennen
+Ich frage den Kollegen wann wir uns jetzt treffen.
+
+ITEM 233
+sich in die Arbeit vertiefen, ablenken
+kündige
+Ich lehne jede weitere Zusammenarbeit mit ihm ab.
+Ich lehne den Vertrag ab
+
+ITEM 234
+Ich werde mich komplett von dieser Situation ablenken.
+Sich versuchen abzulenken (z.B. einen Film schauen, sich mit jemanden auf einen Caffe treffen)
+Telefonieren/SMS
+einen ablenkenden Film schauen
+
+ITEM 235
+versuche es zu vergessen
+Ich werde eine Therapie machen
+Ich versuche durch psychologische Hilfe meine Flugangst zu überwinden
+sich über Mittel gegen Flugangst informieren
+
+ITEM 236
+Dir bewusst machen, dass du nichts für die Verzögerung kannst
+mein können so anzunehmen wie es ist
+Ein Geschenk für den Kranken zusammenstellen
+Einreden, dass es nicht so schlimm ist
+
+ITEM 237
+ignoriere die Tatsache
+ich vergesse die Sache ganz schnell wieder
+Angst ignorieren
+mir klar machen, dass ich nichts besser machen konnte
+
+ITEM 238
+Ich frage ihn, ob er sich gerne wieder einmal mit mir treffen würde.
+Wir treffen uns woanders
+Ich rufe ihn an und versuche eine passende Zeit zu finden.
+vielleicht sollte der Klient Therapeut wechseln
+
+ITEM 239
+Ich suche einen Psychologen auf um meine Flugangst zu überwinden
+Auseinandersetzung mit den Hintergründen/Fakten der Erkrankung
+Ich informiere mich zu Weiterbildungen
+ich befasse mich mit der Krankheit und informiere mich bestmöglich
+
+ITEM 240
+Ich frage den Kollegen wann wir uns jetzt treffen.
+ich schreibe einigen eine Nachricht
+Ich rufe meinen Kollegen an und mache einen neuen Termin für unser Kaffeekränzchen aus
+Sich mit dem alten Kollegen trotzdem treffen
+
+ITEM 241
+mit der Familie/Freunden darüber reden
+Verwandte anrufen und darüber sprechen
+Ich vertraue auf mein eigenes Können
+Vorher mit Vertrauten reden
+
+ITEM 242
+überlegen was man ihm als Geschenk mitbringen könnte
+Freund/Familie überreden mit zu fliegen
+Statistik zu Flugzeugunfällen suchen und Angst als unbegründet verstehen
+Mich der Angst stellen - Fliegen!
+
+ITEM 243
+sich klar machen, dass es ungefährlich ist
+Ich höre mi Entspannungsmusik an
+Körperliches Wohlbefinden sicherstellen
+Ich meditiere um Frieden zu finden
+
+ITEM 244
+ich suche mir eine neue tolle Beschäftigung um das Fehlen zu kompensieren
+ev. anderes Verkehrsmittel (wenn möglich) benutzen
+Ich mache nach Feierabend etwas, das Spass macht.
+Ich versuche mich mit anderen Freizeitbeschäftigungen bei denen ich andere Personen kennenlernen kann abzulenken
+
+ITEM 245
+Ich denke mir „ist halt so, kann man nichts machen.“
+Ich frage mich, ob ich wirklich so schlecht bin
+Auf die Fakten berufen (Fliegen ist sehr sicher)
+Ich weiss dass es nicht meine Schuld ist, ich brauche nur Zeit
+
+ITEM 246
+Sich seiner eigenen Stärken bewusst machen
+einsehen, dass man sein Bestes gegeben hat
+Ich versuche Zuversicht in mich und meine Fähigkeiten zu haben.
+ich erkläre dem Chef, dass es nicht mein Verschulden ist
+
+ITEM 247
+Angst haben ist okay
+Ich bitte meine Kollegen mir zu helfen
+Tipps von den anderen holen
+Unterstützung bei Freunden suchen
+
+ITEM 248
+Ich konzentriere mich auf schöne Sachen, z.B. meinen Umzug
+Ich rede mit Freunden über meine Trauer
+vor ihm weinen
+Trauern
+
+ITEM 249
+ignorieren
+Ignorieren und weiter arbeiten
+Abwarten
+Ich bespreche mich mit meinem Chef, damit er/sie die Situation versteht
+
+ITEM 250
+Mit Flugzeugbesatzung sprechen
+Ich informiere mich genau über die Airline und den Flug
+Ich versuche mich zu informieren, wie die Statistiken aussehen, von Flugzeugabstürzen
+Sagen das er sich mehr anstrengen soll
+
+ITEM 251
+Beruhigungsmittel
+Alkohol um Nervosität zu mindern
+Ich lerne viel
+Ich nehme Beruhigungsmittel vor dem Flug
+
+ITEM 252
+Ich frage den Klienten persönlich, was der Grund für seine Beschwerde sei
+Ich veranlasse, dass der Bericht korrigiert wird.
+sich bisherige Erfolge vor Augen halten
+Verursachen der Verzögerung darauf aufmerksam machen
+
+ITEM 253
+Erwägen, ein anderes Reisemittel zu nehmen
+nach einer anderen Möglichkeit suchen dorthin zu kommen (falls möglich)
+mit anderen Kollegen anfreunden
+Nach Alternativen wie Zug suchen.
+
+ITEM 254
+Ich spreche meine/n Vorgesetzte/n darauf an
+die Situation dem Vorgesetzten erklären
+ich erkläre dem Chef meinen Standpunkt
+Ich fahre sofort ins Krankenhaus, um sie zu besuchen
+
+ITEM 255
+Anderen Weg suchen um dorthin zu reisen
+Ich frage sie, ob sie mir helfen können.
+Andere Transportmöglichkeiten um möglichst kurz zu Fliegen
+Ich suche nach anderen Transportmitteln.
+
+ITEM 256
+Ich meide die Personen & versuch mich mit anderen Teamkollegen besser anzufreunden
+neue Freunde suchen
+nehme Baldriantabletten
+mit anderen Kollegen anfreunden und reden
+
+ITEM 257
+Ich frage, ob es Alternativen zum Flug gibt
+Therapie machen
+vorher regelmässig zum Flughafen fahren > Konfrontation
+Ich suche mir ein alternatives Verkehrsmittel.
+
+ITEM 258
+betrinke mich
+Weinen
+viel lernen
+Weinen
+
+ITEM 259
+Gespraech zu Studentinnen suchen - vermutlich denken die genau umgekehrt
+koerperliches Training
+Ich reflektiere meine Arbeit, denke an moegliche Fehler, v.a. aber was ich gut gemacht habe.
+Tief durchatmen, Augen schließen
+
+ITEM 260
+hinfahren
+ins Krankenhaus fahren
+Ich rede mit Anderen über meine Gefühle
+Besuch abstatten
+
+ITEM 261
+Einen Freund um Hilfe bitten
+Freunde aus höheren Semestern fragen, ob sie helfen können
+Freunde/Partner bitten, Dir behilflich zu sein
+sich nach dem Lernen Auszeit gönnen & sich ablenken
+
+ITEM 262
+Zeit mit der Person verbringen
+Personen, denen man geholfen hat ins Gedächtnis rufen
+Einen Freund bitten mit einem zu kommen und für einen da zu sein
+mit Freunden darüber reden
+
+ITEM 263
+Ich stelle sicher, dass alle den Grund fuer den schlechten Arbeitsfortschritt kennen.
+Ich versuche mich während des Fluges abzulenken und gebe Flugpersonal über meine Situation bescheid.
+Informationen über die Sicherheit des Fliegens einholen
+Dir bewusst machen, dass das Flugzeug das sicherste Transportmittel ist
+
+ITEM 264
+Andere Möglichkeit Arbeitsort?
+neues Team suchen
+Ich probiere die Abteilung zu wechseln
+sich informieren wie unwahrscheinlich Flugzeugabsturz ist
+
+ITEM 265
+jemand neues suchen
+Bewusst machen dass es nicht selbstverschuldet ist
+kündige
+Aufgeben
+
+ITEM 266
+Ich wechsle das Studium
+Ich treffe mich mit Freunden.
+sich mit neuen Kollegen anfreunden
+Ich versuche, mit den anderen StudentInnen eine Lerngruppe zu bilden.
+
+ITEM 267
+Ich erzähle Freunden davon
+nachdenken über Vorteile meiner Erfahrung
+Mit einem Freund/einer Freundin darüber reden
+Ich spreche mit Freunden darüber
+
+ITEM 268
+Denken, dass sie nur neidisch auf dein Talent sind
+Mit Freunden drüber reden
+es wird ein schöner Tag, auch wenn was schief geht
+wird sowieso nicht perfekt laufen > gelassen sehen
+
+ITEM 269
+nachforschen warum die Verzögerung war
+Mit Freunden treffen und ablenken.
+Ablenkung durch Haushalt/Kochen/Backen/Film schauen/ mit einer Freundin etw. unternehmen
+Ich versuch mich während des Fluges abzulenken
+
+ITEM 270
+Ich sorge dafür, dass die Betriebsmittel das nächste mal rechtzeitig kommen
+meinen Zeitplan überarbeiten
+Meinen Zeitplan kürzen
+Ich führe mir den heiss begehrten Vertrag immer wieder vor Augen und versuche nur an positive Dinge zu denken
+
+ITEM 271
+Mit Freunden/Familie darüber reden
+Ich gehe in die Kirche.
+Besuch im Krankenhaus
+Ich fahre ins Krankenhaus und besuche meine Verwandten
+
+ITEM 272
+Ich wechsele Sportart
+Höre m. d. Sport auf
+Ich suche andere Beschäftigung
+suche nach Behandlungsmöglichkeiten
+
+ITEM 273
+Freund/in um Support fragen
+Ich frage sie um Rat.
+die jüngeren Kollegen um Hilfe fragen
+Ich bin gelassen, da ich weiß, dass ich mein Bestes gebe und versuche motiviert zu bleiben
+
+ITEM 274
+Witze drueber
+ich rede auch schlecht ueber sie
+ich will es nicht persoenlich nehmen
+Häufigere Besuche vornehmen
+
+ITEM 275
+sich beim Chef/den Verantwortlichen beschweren
+sich bei Familie/Partner beschweren
+Ich beschwere mich beim Trainerr
+bewusst sein, dass keine der Familie böse sein wird
+
+ITEM 276
+ich versuche mich abzulenken
+auf die Vorbereitung konzentrieren, ablenken
+versuche mich abzulenken
+Ich suche nach Alternativen, z.B. anderer Tag, anderes Cafe, …
+
+ITEM 277
+Ich schlage vor uns in seiner Abteilung zu treffen.
+ich frage meinen alten Kollegen ob er sich trotzdem nich treffen möchte
+an einem anderen Tag treffen
+Ich schreibe zuvor eine Nachricht an sie, die meine Bedenken erklaert.
+
+ITEM 278
+Ich trainiere mehr
+Bier trinken
+vorher ein Glas Sekt
+Etw. (alkohol) trinken
+
+ITEM 279
+versuchen es zu vergessen
+Ich versuche die Situation zu ignorieren
+versuchen, nicht darüber nachzudenken
+Freunden/Familie anvertrauen
+
+ITEM 280
+rede erneut mit dem Chef
+Eine Aussprache mit dem Kollegen
+Es dem Chef erzählen
+ignoriere die Tatsache
+
+ITEM 281
+Ich schreibe eine Postkarte
+Ich rufe sie an.
+anrufen/schreiben
+Ich nehme Medikamente gegen Flugangst
+
+ITEM 282
+mit ihnen anfreunden
+Ich überlege, wie ich meinen Verwandten unterstützen kann
+ich freunde mich mit Stammgast an der Theke an
+sich mit anderen Kollegen der gleichen Abteilung anfreunden
+
+ITEM 283
+sich ablenken (Bücher, Filme/Serien)
+ich freunde mich mit Stammgast an der Theke an
+Ich versuche mich anderweitig abzulenken
+Ein Buch als Ablenkung mitnehmen (I love books)
+
+ITEM 284
+mit jemandem darüber unterhalten
+Mit Freunden darüber reden
+darüber reden
+Ich nehme Medikamente ein (Xanax, hooray!)
+
+ITEM 285
+Sportteam wechseln/verlassen
+Ich wechsle die Universität
+ich wechsle den Job
+Freude über junge, fähige Menschen
+
+ITEM 286
+ich suche das Gespräch mit dem Klienten und frage ihn, welche Besserungen er sich wünscht
+Grund für das Fehlen der Infos erfragen
+Anderen Kollegen um Hilfe bitten
+die Beschwerde diskutieren > berechtigt? (teilweise)
+
+ITEM 287
+Ich fahre sofort wie möglich ins Krankenhaus.
+Einen Kuchen essen
+Erstmal etwas essen
+Ich esse viel Schokoeis.
+
+ITEM 288
+Ablenken und nicht daran denken
+Ich lese Zeitung statt mich zu unterhalten
+Mich ablenken m. Hobbies
+Mit anderen Verwandten reden
+
+ITEM 289
+ich trainiere härter
+Kollegen statdessen anrufen
+Ich werde sehr viel Zeit verwenden, um meine Nachteile durch lernen wieder auszugleichen.
+versuch mich zu verbessern
+
+ITEM 290
+entspannen
+Ich mache Atem-/Entspannungsuebungen
+Ich mache ein Nickerchen
+ich versuche mich, bei meinen Mitschülern einzubringen
+
+ITEM 291
+Ich lehne das Angebot ab
+Ich finde eine neue Beschäftigung
+Ich nehme den Vertrag nicht an
+Früh genug mit Vorbereitungen anfangen
+
+ITEM 292
+Freund um Rat fragen
+mit Freunden darüber sprechen
+Mit jemanden darüber sprechen.
+mit jemandem reden
+
+ITEM 293
+Ich umgebe mich mit Freunden, die verlässlich sind.
+Atemtechnik zum entspannen
+Ich meditiere…
+Atemübungen machen
+
+ITEM 294
+Ich schätze meine Freizeit und Hobbies
+Ich frage Frunde/Familie nach Tipps gg Angst
+sich die Zeit für ein Hobby reservieren
+Ich versuche andere Aufgaben zwischenzeitlich zu erledigen.
+
+ITEM 295
+Ich such nach anderen alternativen um mit ihm Freitags zu kommunizieren.
+Ich frage ihn, ob es für seine Arbeitszeit an anderen Tagen als Freitag besser geht, um ihm entgegenzukommen & die Treffen aufrecht erhalten zu können
+mich mehr anstrengen
+Den Kollegen fragen, ob er sich trotzdem noch treffen mag
+
+ITEM 296
+mit Freunden darüber reden
+Mit Freunden darüber reden
+Ich trinke einen Schluck Alkohol
+mit jemandem darüber reden
+
+ITEM 297
+die Verwandten besuchen wenn möglich
+Ich lerne Entspannungstechniken
+Entspannungstechniken üben/raussuchen
+Entspannungsübungen machen
+
+ITEM 298
+Ich nehme mir mehr Zeit für die Uni.
+Mit ihnen gemeinsam lernen
+Extra viel lernen
+Ich versuche die Situation aufzuklären.
+
+ITEM 299
+Ich esse Schokolade, ähnliches
+Ich esse aus Frust eine Tafel Schokolade
+bestell mir was zu Essen
+Mit Zuständigen Personen austauschen > woran hat es gelegen?
+
+ITEM 300
+schaue Fern
+Ich versuche mich abzulenken
+Ich fahre ins Krankenhaus, um meinen Verwandte beizustehen
+dreh den Fernseher auf
+
+ITEM 301
+Akzeptieren, dass das bei Familienfeiern unmöglich ist
+Realisieren, dass ich nicht alles kontrollieren kann
+Mit eng befreundeter Person fliegen
+sich selbst nicht die Schuld geben
+
+ITEM 302
+Sport machen auspower
+hoffen, dass es keiner bemerkt
+Ich mache mir klar, dass sowas zum Leben dazugehört
+Ich denke mir, dass sie vermutlich einfach neidisch auf mein Talent sind.
+
+ITEM 303
+Liste mit allem was schief laufen kann aufstellen und bewusst werden, dass nichts wirklich schlimm ist.
+Ich versichere mich darüber, dass dies keine Absicht war
+Ich ziehe in Erwägung, dass sie mich einfach nicht verletzen wollen
+Ich lerne noch mehr
+
+ITEM 304
+Kontakt suchen
+mit der Familie telefonieren
+diese bei Fragen kontaktieren
+Den Verwandten besuchen.
+
+ITEM 305
+Ihn anrufen
+ich schreibe einigen eine Nachricht
+Freund/in um Support fragen
+versuchen Kontakt aufrecht zu halten
+
+ITEM 306
+Ich atme tief ein und aus und überlege in Ruhe
+Ich prüfe alternative Anreiseverfahren
+Ich schaue, ob man auch anders hin kommt (Zug, Auto, …)
+suche nach Alternativen für das Fliegen
+
+ITEM 307
+Aufgeben
+Alkohol
+Ich trinke Alkohol
+betrinke mich
+
+ITEM 308
+Ich veranlasse, dass der Bericht korrigiert wird.
+Ich spreche mit einer guten Kollegin.
+ich zeige mich vulnerabel und rede mit dem Team offen darüber
+mit Freundin telefonieren und drüber reden
+
+ITEM 309
+Ich besorge mir Medikamente, die die Flugangst dämpfen.
+Ich nehme Medikamente gegen Flugangst
+Entspannungsmöglichkeiten nutzen
+Ich nehme vor dem Flug Beruhigungstabletten
+
+ITEM 310
+Mir in Erinnerung rufen worin ich besser/gut bin.
+Ich erinnere mich an die Zeit vor meiner akademischen Abwesenheit.
+Team wechseln
+mir sagen, dass ich genauso gut bin
+
+ITEM 311
+Weinen
+Ich trinke einen Schluck Alkohol
+Ich trinke ein Glas Wein zur Entspannung.
+ich rufe deren Eltern an
+
+ITEM 312
+Ärger freien Lauf lassen und mich innerlich beschweren/ihn beschimpfen
+putzen - Frust rauslassen
+Ich koennte mit anderen Menschen reden, die ebenso unter Flugangst leiden, mich informieren.
+Ich drücke meinen Ärger über das „Hinterrücks-Gerede“ aus
+
+ITEM 313
+ich suche mir einen Alternativjob
+Ich bereite alles Stunden vorher vor und gebe mir sehr viel Mühe
+Plan (To do Liste) schreiben
+plane Reise
+
+ITEM 314
+Ich konzentriere mich auf meine eigenen Leistungen
+Ich rede mir gut zu, dass ich dafür schon mehr Lebenserfahrung habe.
+Selbstwertgefühl stärken
+Mit Freunden darüber reden
+
+ITEM 315
+Verwandte regelmässig besuchen
+Ich frage meine Freundin ob sie mitfliegen würde
+Ich versuche die Person so bald wie möglich zu besuchen.
+Ich besuche ihn spontan in der Mittagspause.
+
+ITEM 316
+such mit anderen Kollegen anfreunden
+Stattdessen freitags feiern
+Ich gehe auch nicht mehr in das Cafe
+allein ins Cafe gehen
