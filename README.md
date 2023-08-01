@@ -17,5 +17,16 @@ emotion regulation attempts collected through an open-ended situational judgment
 Our approach shows how machine learning and psychology can be combined to provide new perspectives on the conceptualization of psychological processes.
 
 ## Organisation of the repository
+The repository is structured according to the steps of the _construct mining pipeline_ as described in the paper and depicted in Figure `CMP.pdf`. Each step of the pipeline corresponds to one jupyter notebook. Outputs of each step are stored in the folders:
+* `data`: contains the original data (`strategies_raw.csv`), original sentence embeddings (Step 1), vignette embeddings (Step 3), and masked sentence embeddings (Step 4)
+* `bias`: contains the results of item bias measurement (Step 3)
+* `evaluation`: contains the results of hyperparameter tuning on UMA and HDBSCAN (Steps 5 and 6)
+* `robustness_check`: contains the results of the robustness check of UMAP against different random initializations (Step 7)
+* `intrusion`: contains intrusion survey materials (`survey`), raw intrusion survey data (`results`) and intrusion survey analysis results (Step 8)
+* `solution`: contains the plot of the final clustering
+* `dim_curse`: contains an illustration of the curse of dimensionality as described in the appendix of the paper
+* `noise`: contains raw data (`labeled_data`) and results of the analysis of unclassified samples as described in the appendix of the paper
+* `plots`: contains plots from the manuscript
+* `bonus`: contains plots of a few additional analyses not described in the paper (see notebook `99_bonus-analyses`)
 
-* `data` bla bla bla
+
