@@ -1,5 +1,6 @@
 # A Computational Method to Reveal Psychological Constructs from Text Data
-Accompanying Material to Herderich, Freudenthaler, &amp; Garcia (2023): A Computational Method to Reveal Psychological Constructs from Text Data
+Accompanying Material to Herderich, Freudenthaler, &amp; Garcia (2023): A Computational Method to Reveal Psychological Constructs from Text Data <br>
+To the preprint: - insert preprint link -
 
 ## Abstract
 When starting to formalize psychological constructs, researchers traditionally rely on two distinct approaches: The quantitative approach, which defines 
@@ -14,3 +15,7 @@ The pipeline includes methods for the measurement and correction of bias introdu
 validity according to human judgment. We demonstrate the applicability of our method on an example from emotion regulation. Based on short descriptions of 
 emotion regulation attempts collected through an open-ended situational judgment test, we use our method to derive classes of emotion regulation strategies.
 Our approach shows how machine learning and psychology can be combined to provide new perspectives on the conceptualization of psychological processes.
+
+## Organisation of the repository
+
+* `data` bla bla bla
