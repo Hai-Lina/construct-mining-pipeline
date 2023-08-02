@@ -74,3 +74,7 @@ Or if you work on MacOS:
 Make sure to `cd` into the directory where the file lies before you execute the command. You can check whether the installation was successful using `conda info --envs`.
 
 Please use the files with the previously computed sentence embeddings (original, masked, vignettes - lying in folder data) for full replicability, since models on Hugging Face can be updated and change. Note that packages numba and pynndescent influence random number generation and therefore need to be installed in the given versions! Be aware that random number generation can vary depending on the operating system (which does however not influence the overall conclusions)! This issue can hardly be handeled via programming packages as described [here](https://github.com/lmcinnes/umap/issues/153). If you have troubles replicating the analysis with the given specifications on your system, please set the variable `NOT_LINUX` in the jupyter notebooks to True. This will retrieve previously computed UMAP embeddings.
+
+## Licensing
+
+This work is placed under a Creative Commons Attribution 4.0 International License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). This license allows you to remix, adapt, and build upon this work non-commercially, as long as you credit the authors and license your new creations under identical terms.
