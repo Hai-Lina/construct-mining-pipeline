@@ -1,7 +1,7 @@
 # A Computational Method to Reveal Psychological Constructs from Text Data
 Accompanying Material to Herderich, Freudenthaler, &amp; Garcia (2024): A Computational Method to Reveal Psychological Constructs from Text Data
 
-To the preprint: [https://doi.org/10.1037/met0000700](https://doi.org/10.1037/met0000700)
+To the article: [https://doi.org/10.1037/met0000700](https://doi.org/10.1037/met0000700)
 
 ## Abstract
 When starting to formalize psychological constructs, researchers traditionally rely on two distinct approaches: The quantitative approach, which defines 
